@@ -1,3 +1,1 @@
-# CHC
-
-Climate Hazards Center Research Project
+# UCSB Climate Hazards Center Research Project
