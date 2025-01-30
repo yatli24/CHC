@@ -1,0 +1,11 @@
+data/CHIRPS/chirps-v2.0.1991.monthly.nc
+data/CHIRPS/chirps-v2.0.monthly.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Apr.nc
+*.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Dec.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Feb.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Jan.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Jul.nc
+data/NMME/CanESM5/prec.CanESM5.1991.mon_Jun.nc
+/data
+/data
