@@ -12,3 +12,4 @@ data/NMME/CanESM5/prec.CanESM5.1991.mon_Jun.nc
 figures/test.png
 Jupyter notebooks/global-plot-interactive.ipynb
 Jupyter notebooks/east_africa_time_series.ipynb
+data/csv/models_stat_final.csv
