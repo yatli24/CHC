@@ -12,3 +12,6 @@
 ## Dependencies
 
 ## References
+
+## People
+By Johnson Sy Leung, Ivan Li, Hannah Kim, Edwin Yang, Sanchit Mehrotra, and Sophie Shi
