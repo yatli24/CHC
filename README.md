@@ -4,6 +4,7 @@
 Assessing the predictive skill of several climate models in the North American Multi Model Ensemble (NMME)
 
 ## Repository Guide
+- .devcontainer - Development container for the project (Dependency version control)
 - scripts - Folder containing scripts used to reproduce our analyses and findings
   - preprocessing - Contains data preprocessing functions for raw NetCDF climate model data
 
