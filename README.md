@@ -1,4 +1,4 @@
-# UCSB Climate Hazards Center Research
+# UCSB Climate Hazards Center Research Capstone
 
 ## Project Description
 
