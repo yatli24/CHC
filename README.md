@@ -7,7 +7,7 @@
   - preprocessing - Contains data preprocessing functions for raw NetCDF climate model data
 
 - figures - Folder containing graphs and plots
-  - Corr_heatmap - Heatmaps by climate model and region of interest, showing correlation organized by lead time and month.
+  - Corr_heatmap - Heatmaps by climate model and region of interest, showing correlation between predicted and actual precipitation organized by lead time and month.
 
 ## Dependencies
 
