@@ -1,0 +1,11 @@
+{
+    "name": "UCSB CHC Capstone Container",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "/bin/bash"
+    },
+    "extensions": [
+        "ms-python.python"
+    ],
+    "forwardPorts": [8888]
+}
