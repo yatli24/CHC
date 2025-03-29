@@ -1,6 +1,7 @@
 # UCSB Climate Hazards Center Research Capstone
 
 ## Project Description
+Assessing the predictive skill of several climate models in the North American Multi Model Ensemble (NMME)
 
 ## Repository Guide
 - scripts - Folder containing scripts used to reproduce our analyses and findings
