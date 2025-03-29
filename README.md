@@ -14,4 +14,6 @@
 ## References
 
 ## People
-By Johnson Sy Leung, Ivan Li, Hannah Kim, Edwin Yang, Sanchit Mehrotra, and Sophie Shi
+Created By Johnson Sy Leung, Ivan Li, Hannah Kim, Edwin Yang, Sanchit Mehrotra, and Sophie Shi
+
+Sponsored By Laura Harrison and Greg Husak
