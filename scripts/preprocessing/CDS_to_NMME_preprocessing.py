@@ -66,7 +66,7 @@ def convert_CDS_to_NMME(CDS_folder_path, NMME_file_path, save_path):
     # Rename latitude to Y
     current_ds = current_ds.rename({'latitude': 'Y'})
 
-    # Rename forecast_month to L (do we need to subtract by 0.5?)
+    # Rename forecast_month to L
     current_ds = current_ds.rename({'forecastMonth': 'L'})
 
     # Rename number to M
