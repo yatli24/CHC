@@ -22,7 +22,16 @@ for path in list_of_files:
 
 for f in files_path:
     df = pd.read_csv(f)
-    df['region'] = '_'.join(f.split('/')[-1].split('_')[0:-3])
+    if 'model' not in df.columns:
+        print(f"Error: Column 'model' does not exist.")
+    else:
+        # Access the value in the first row (.iloc[0]) of the model column
+        first_row_value = df['model'].iloc[0]
+
+        # Compare it with the value you're looking for
+        if first_row_value == 'MME':
+            continue
+
     dfs_dict[f] = df
 
 mme_df = pd.concat(dfs_dict.values()).groupby(['season', 'date_of_prediction', 'region', 'realization_year'])[['predicted_precip','precip']].mean().reset_index()
