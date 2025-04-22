@@ -29,7 +29,7 @@ for f in files_path:
         first_row_value = df['model'].iloc[0]
 
         # Compare it with the value you're looking for
-        if first_row_value == 'MME':
+        if first_row_value == 'MME' or first_row_value == 'SMME' or first_row_value == 'SMMEmod':
             continue
 
     dfs_dict[f] = df
