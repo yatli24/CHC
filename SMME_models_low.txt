@@ -1,0 +1,18 @@
+eastern_east_africa:
+  MAM: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+  OND: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+eastern_ukraine:
+  JA: ['CMCC']
+lake_victoria_basin:
+  MAM: ['CCSM4', 'CMCC', 'CanESM5', 'NASA', 'NCEP']
+  SON: ['CanESM5', 'ECMWF', 'GEM5', 'NASA', 'NCEP']
+south_sudan:
+  ASO: ['NCEP']
+  JAS: ['DWD', 'GEM5', 'METEO']
+  MJJ: ['ECMWF', 'GFDL', 'NASA']
+southern_africa:
+  FMA: ['DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA']
+sri_lanka:
+  OND: ['CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+west_africa:
+  JAS: ['GFDL', 'NASA', 'NCEP']
