@@ -1,0 +1,21 @@
+metrics:
+  potential_skill: 0.3
+  an_agreement: 0.4
+  bn_agreement: 0.4
+  operations: potential_skill OR (an AND bn)
+eastern_east_africa:
+  MAM: ['CESM1', 'CMCC', 'CanESM5', 'DWD', 'GEM5', 'GFDL', 'SMME_medium']
+  OND: ['CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'NCEP', 'SMME_medium']
+eastern_ukraine:
+  AMJ: ['CESM1']
+lake_victoria_basin:
+  SON: ['GEM5']
+south_sudan:
+  JAS: ['METEO', 'SMME_medium']
+  MJJ: ['METEO']
+southern_africa:
+  FMA: ['ECMWF', 'GEM5', 'NCEP', 'SMME_medium']
+sri_lanka:
+  OND: ['CMCC', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP', 'SMME_medium']
+west_africa:
+  JAS: ['CanESM5', 'NASA', 'NCEP', 'SMME_medium']
