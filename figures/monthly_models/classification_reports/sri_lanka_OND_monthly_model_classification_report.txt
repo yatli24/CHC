@@ -1,0 +1,11 @@
+sri_lanka OND Long Lead Monthly Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.75      0.50      0.60         6
+          bn       0.40      0.67      0.50         3
+           n       0.33      0.33      0.33         3
+
+    accuracy                           0.50        12
+   macro avg       0.49      0.50      0.48        12
+weighted avg       0.56      0.50      0.51        12

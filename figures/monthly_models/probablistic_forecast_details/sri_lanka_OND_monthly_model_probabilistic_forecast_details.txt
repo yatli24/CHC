@@ -1,0 +1,15 @@
+sri_lanka OND Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021     10  0.039516  0.276571 0.683913         an               n
+ 2022     10  0.414631  0.391569 0.193799          n              an
+ 2023     10  0.453447  0.468147 0.078405         an              bn
+ 2024     10  0.393741  0.593867 0.012392          n              bn
+ 2021     11  0.548558  0.342570 0.108872         an              an
+ 2022     11  0.191413  0.097119 0.711468         bn               n
+ 2023     11  0.512155  0.196310 0.291534         an              an
+ 2024     11  0.304608  0.672337 0.023055         an              bn
+ 2021     12  0.414154  0.528193 0.057653         bn              bn
+ 2022     12  0.121402  0.297931 0.580667          n               n
+ 2023     12  0.630643  0.110312 0.259045         an              an
+ 2024     12  0.330601  0.655944 0.013455         bn              bn

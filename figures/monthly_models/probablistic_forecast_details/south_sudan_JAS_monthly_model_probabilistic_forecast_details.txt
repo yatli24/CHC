@@ -1,0 +1,15 @@
+south_sudan JAS Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      7  0.832416  0.131085 0.036499          n              an
+ 2022      7  0.869823  0.046556 0.083621          n              an
+ 2023      7  0.950013  0.007743 0.042244         bn              an
+ 2024      7  0.077385  0.012686 0.909929         an               n
+ 2021      8  0.982362  0.010930 0.006708         bn              an
+ 2022      8  0.795950  0.170786 0.033264          n              an
+ 2023      8  0.943908  0.036408 0.019684         bn              an
+ 2024      8  0.114762  0.087486 0.797752         bn               n
+ 2021      9  0.807748  0.089944 0.102308         an              an
+ 2022      9  0.924966  0.062369 0.012664         an              an
+ 2023      9  0.529692  0.391462 0.078845          n              an
+ 2024      9  0.286179  0.039869 0.673951         bn               n

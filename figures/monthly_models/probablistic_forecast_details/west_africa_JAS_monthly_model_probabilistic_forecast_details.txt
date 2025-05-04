@@ -1,0 +1,15 @@
+west_africa JAS Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      7  0.032280  0.117961 0.849759          n               n
+ 2022      7  0.931773  0.039573 0.028655          n              an
+ 2023      7  0.096105  0.198621 0.705274         bn               n
+ 2024      7  0.657115  0.107881 0.235004         an              an
+ 2021      8  0.411896  0.453943 0.134161         an              bn
+ 2022      8  0.292644  0.218575 0.488781          n               n
+ 2023      8  0.034778  0.263219 0.702003         an               n
+ 2024      8  0.451800  0.281240 0.266961         an              an
+ 2021      9  0.734877  0.045477 0.219646         bn              an
+ 2022      9  0.422676  0.425646 0.151678         an              bn
+ 2023      9  0.094011  0.796508 0.109480          n              bn
+ 2024      9  0.304445  0.513979 0.181575         an              bn

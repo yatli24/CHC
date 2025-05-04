@@ -1,0 +1,11 @@
+eastern_east_africa MAM Long Lead Monthly Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.22      0.67      0.33         3
+          bn       0.50      0.25      0.33         4
+           n       0.00      0.00      0.00         5
+
+    accuracy                           0.25        12
+   macro avg       0.24      0.31      0.22        12
+weighted avg       0.22      0.25      0.19        12

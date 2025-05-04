@@ -1,0 +1,11 @@
+south_sudan JAS Long Lead Monthly Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.22      0.67      0.33         3
+          bn       0.00      0.00      0.00         5
+           n       0.00      0.00      0.00         4
+
+    accuracy                           0.17        12
+   macro avg       0.07      0.22      0.11        12
+weighted avg       0.06      0.17      0.08        12

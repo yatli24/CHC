@@ -1,0 +1,15 @@
+eastern_ukraine DJF Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      1  0.838288  0.125558 0.036154         an              an
+ 2022      1  0.782185  0.160969 0.056846          n              an
+ 2023      1  0.354918  0.229434 0.415648         bn               n
+ 2024      1  0.104123  0.023798 0.872079         an               n
+ 2021      2  0.989259  0.007314 0.003428         an              an
+ 2022      2  0.598567  0.244016 0.157417         bn              an
+ 2023      2  0.208827  0.434008 0.357165          n              bn
+ 2024      2  0.352989  0.155246 0.491765          n               n
+ 2021     12  0.505951  0.407597 0.086451         an              an
+ 2022     12  0.779744  0.097400 0.122856         bn              an
+ 2023     12  0.238548  0.063429 0.698023          n               n
+ 2024     12  0.210449  0.080666 0.708886          n               n
