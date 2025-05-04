@@ -1,0 +1,7 @@
+southern_africa FMA Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.726766  0.048877 0.224357         bn              an
+ 2022  0.525139  0.084281 0.390580         an              an
+ 2023  0.031880  0.008111 0.960008         bn               n
+ 2024  0.032994  0.742929 0.224077         bn              bn

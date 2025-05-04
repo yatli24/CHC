@@ -1,0 +1,7 @@
+eastern_east_africa OND Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.041348  0.046064 0.912588         bn               n
+ 2022  0.201106  0.056214 0.742679         bn               n
+ 2023  0.490966  0.041573 0.467461         an              an
+ 2024  0.712525  0.263899 0.023576          n              an

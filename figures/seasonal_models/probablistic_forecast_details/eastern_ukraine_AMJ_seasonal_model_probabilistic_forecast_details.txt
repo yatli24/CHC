@@ -1,0 +1,7 @@
+eastern_ukraine AMJ Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.525132  0.047835 0.427033         an              an
+ 2022  0.853319  0.041052 0.105629          n              an
+ 2023  0.662611  0.170755 0.166634         an              an
+ 2024  0.770053  0.117622 0.112325         bn              an

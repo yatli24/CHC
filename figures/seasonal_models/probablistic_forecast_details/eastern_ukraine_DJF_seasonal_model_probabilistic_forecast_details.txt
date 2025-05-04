@@ -1,0 +1,7 @@
+eastern_ukraine DJF Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.476876  0.261995 0.261129         an              an
+ 2022  0.439911  0.223616 0.336473         bn              an
+ 2023  0.897382  0.020278 0.082340          n              an
+ 2024  0.621821  0.362371 0.015808          n              an

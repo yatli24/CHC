@@ -1,0 +1,7 @@
+eastern_east_africa MAM Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.362434  0.567185 0.070381         bn              bn
+ 2022  0.116482  0.769103 0.114415         bn              bn
+ 2023  0.112441  0.845555 0.042003         an              bn
+ 2024  0.858989  0.098387 0.042623         an              an

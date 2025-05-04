@@ -1,0 +1,7 @@
+south_sudan ASO Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.884788  0.047538 0.067674         bn              an
+ 2022  0.590217  0.327801 0.081982         bn              an
+ 2023  0.086873  0.045081 0.868045         bn               n
+ 2024  0.214879  0.662221 0.122900         bn              bn

@@ -1,0 +1,7 @@
+south_sudan MJJ Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.046820  0.348920 0.604259          n               n
+ 2022  0.775530  0.036289 0.188181         bn              an
+ 2023  0.167348  0.117002 0.715650          n               n
+ 2024  0.229979  0.738770 0.031251         bn              bn
