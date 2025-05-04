@@ -1,0 +1,15 @@
+eastern_east_africa OND Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021     10  0.014568  0.014968 0.970464         bn               n
+ 2021     11  0.245519  0.085166 0.669315         bn               n
+ 2021     12  0.172660  0.129734 0.697607         bn               n
+ 2022     10  0.069098  0.038985 0.891917         bn               n
+ 2022     11  0.028916  0.022707 0.948377         bn               n
+ 2022     12  0.017400  0.009134 0.973466         bn               n
+ 2023     10  0.035057  0.014882 0.950061         an               n
+ 2023     11  0.445126  0.006140 0.548733         an               n
+ 2023     12  0.652644  0.096034 0.251322         an              an
+ 2024     10  0.047621  0.913643 0.038736          n              bn
+ 2024     11  0.041970  0.935155 0.022875          n              bn
+ 2024     12  0.099946  0.887214 0.012840          n              bn

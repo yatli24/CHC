@@ -1,0 +1,15 @@
+south_sudan ASO Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      8  0.860294  0.120263 0.019444          n              an
+ 2021      9  0.982397  0.008909 0.008695          n              an
+ 2021     10  0.540510  0.383236 0.076254         bn              an
+ 2022      8  0.695284  0.199019 0.105697          n              an
+ 2022      9  0.825763  0.135371 0.038866          n              an
+ 2022     10  0.898319  0.063723 0.037958         bn              an
+ 2023      8  0.983952  0.009172 0.006877         bn              an
+ 2023      9  0.974556  0.012800 0.012644         bn              an
+ 2023     10  0.422174  0.063899 0.513927         bn               n
+ 2024      8  0.781672  0.054694 0.163634         an              an
+ 2024      9  0.772091  0.173724 0.054184         an              an
+ 2024     10  0.751366  0.056410 0.192223         bn              an

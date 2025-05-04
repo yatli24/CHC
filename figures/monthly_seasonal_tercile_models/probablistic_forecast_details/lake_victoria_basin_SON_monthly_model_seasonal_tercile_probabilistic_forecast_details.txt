@@ -1,0 +1,15 @@
+lake_victoria_basin SON Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      9  0.918214  0.042700 0.039085         bn              an
+ 2021     10  0.856664  0.060568 0.082768         bn              an
+ 2021     11  0.418694  0.336973 0.244333         bn              an
+ 2022      9  0.152071  0.018093 0.829837          n               n
+ 2022     10  0.152954  0.009127 0.837919          n               n
+ 2022     11  0.223804  0.031934 0.744262          n               n
+ 2023      9  0.944693  0.006361 0.048946         an              an
+ 2023     10  0.908396  0.024312 0.067292         an              an
+ 2023     11  0.103561  0.801753 0.094686         an              bn
+ 2024      9  0.699882  0.287773 0.012345         an              an
+ 2024     10  0.521366  0.464774 0.013860         an              an
+ 2024     11  0.540139  0.448192 0.011669         an              an

@@ -1,0 +1,11 @@
+south_sudan JAS Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.00      0.00      0.00         2
+          bn       1.00      0.25      0.40         4
+           n       0.57      0.67      0.62         6
+
+    accuracy                           0.42        12
+   macro avg       0.52      0.31      0.34        12
+weighted avg       0.62      0.42      0.44        12

@@ -1,0 +1,11 @@
+south_sudan MJJ Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.00      0.00      0.00         0
+          bn       0.00      0.00      0.00         6
+           n       0.67      0.67      0.67         6
+
+    accuracy                           0.33        12
+   macro avg       0.22      0.22      0.22        12
+weighted avg       0.33      0.33      0.33        12

@@ -1,0 +1,11 @@
+lake_victoria_basin SON Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.62      0.83      0.71         6
+          bn       0.00      0.00      0.00         3
+           n       1.00      1.00      1.00         3
+
+    accuracy                           0.67        12
+   macro avg       0.54      0.61      0.57        12
+weighted avg       0.56      0.67      0.61        12

@@ -1,0 +1,11 @@
+eastern_ukraine JA Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      7  0.387469  0.594832 0.017699         an              bn
+ 2021      8  0.328110  0.550229 0.121661         an              bn
+ 2022      7  0.118817  0.002857 0.878326         an               n
+ 2022      8  0.040485  0.010814 0.948701         an               n
+ 2023      7  0.644277  0.126822 0.228902         an              an
+ 2023      8  0.295483  0.055015 0.649502         an               n
+ 2024      7  0.481658  0.095445 0.422897         bn              an
+ 2024      8  0.382424  0.333396 0.284180         bn              an

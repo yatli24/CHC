@@ -1,0 +1,11 @@
+sri_lanka OND Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.00      0.00      0.00         3
+          bn       0.00      0.00      0.00         0
+           n       1.00      0.67      0.80         9
+
+    accuracy                           0.50        12
+   macro avg       0.33      0.22      0.27        12
+weighted avg       0.75      0.50      0.60        12

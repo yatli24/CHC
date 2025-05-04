@@ -1,0 +1,15 @@
+southern_africa FMA Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      2  0.057078  0.009786 0.933136         bn               n
+ 2021      3  0.035827  0.008607 0.955565         bn               n
+ 2021      4  0.027668  0.004369 0.967964         bn               n
+ 2022      2  0.066676  0.004125 0.929199         an               n
+ 2022      3  0.004250  0.000991 0.994760         an               n
+ 2022      4  0.014592  0.005590 0.979819         an               n
+ 2023      2  0.018444  0.005000 0.976555         bn               n
+ 2023      3  0.079553  0.008104 0.912343         bn               n
+ 2023      4  0.060618  0.008271 0.931112         bn               n
+ 2024      2  0.513293  0.293921 0.192786         bn              an
+ 2024      3  0.246071  0.585874 0.168056         bn              bn
+ 2024      4  0.077372  0.889758 0.032870         bn              bn

@@ -1,0 +1,11 @@
+southern_africa DJF Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.43      1.00      0.60         3
+          bn       0.75      0.43      0.55         7
+           n       1.00      0.50      0.67         2
+
+    accuracy                           0.58        12
+   macro avg       0.73      0.64      0.60        12
+weighted avg       0.71      0.58      0.58        12
