@@ -1,0 +1,11 @@
+eastern_ukraine AMJ Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.20      0.17      0.18         6
+          bn       0.00      0.00      0.00         3
+           n       0.29      0.67      0.40         3
+
+    accuracy                           0.25        12
+   macro avg       0.16      0.28      0.19        12
+weighted avg       0.17      0.25      0.19        12

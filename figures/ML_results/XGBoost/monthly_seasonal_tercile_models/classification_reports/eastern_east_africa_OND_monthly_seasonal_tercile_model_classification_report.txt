@@ -1,0 +1,11 @@
+eastern_east_africa OND Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       1.00      0.33      0.50         3
+          bn       0.00      0.00      0.00         6
+           n       0.00      0.00      0.00         3
+
+    accuracy                           0.08        12
+   macro avg       0.33      0.11      0.17        12
+weighted avg       0.25      0.08      0.12        12

@@ -1,0 +1,11 @@
+eastern_east_africa MAM Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       1.00      0.50      0.67         6
+          bn       0.67      1.00      0.80         6
+           n       0.00      0.00      0.00         0
+
+    accuracy                           0.75        12
+   macro avg       0.56      0.50      0.49        12
+weighted avg       0.83      0.75      0.73        12

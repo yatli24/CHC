@@ -1,0 +1,7 @@
+southern_africa DJF Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.177039  0.006689 0.816272         an               n
+ 2022  0.883929  0.025742 0.090329         bn              an
+ 2023  0.153089  0.082612 0.764299          n               n
+ 2024  0.416496  0.365889 0.217616         bn              an

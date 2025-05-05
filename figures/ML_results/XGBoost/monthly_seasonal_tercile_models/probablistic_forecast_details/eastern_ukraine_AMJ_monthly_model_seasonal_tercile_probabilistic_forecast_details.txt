@@ -1,0 +1,15 @@
+eastern_ukraine AMJ Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      4  0.031677  0.018704 0.949619         an               n
+ 2021      5  0.040167  0.014130 0.945703         an               n
+ 2021      6  0.099475  0.004102 0.896423         an               n
+ 2022      4  0.397888  0.014170 0.587942          n               n
+ 2022      5  0.550816  0.022928 0.426255          n              an
+ 2022      6  0.315142  0.246266 0.438592          n               n
+ 2023      4  0.386342  0.120054 0.493603         an               n
+ 2023      5  0.297266  0.177097 0.525637         an               n
+ 2023      6  0.612852  0.302321 0.084827         an              an
+ 2024      4  0.873503  0.095728 0.030769         bn              an
+ 2024      5  0.839804  0.141843 0.018353         bn              an
+ 2024      6  0.816619  0.166578 0.016803         bn              an

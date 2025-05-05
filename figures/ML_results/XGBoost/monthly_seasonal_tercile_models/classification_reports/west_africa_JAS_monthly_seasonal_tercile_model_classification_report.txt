@@ -1,0 +1,11 @@
+west_africa JAS Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.80      0.67      0.73         6
+          bn       0.00      0.00      0.00         0
+           n       0.00      0.00      0.00         6
+
+    accuracy                           0.33        12
+   macro avg       0.27      0.22      0.24        12
+weighted avg       0.40      0.33      0.36        12

@@ -1,0 +1,11 @@
+south_sudan MJJ Long Lead Monthly Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.10      0.50      0.17         2
+          bn       0.00      0.00      0.00         5
+           n       0.00      0.00      0.00         5
+
+    accuracy                           0.08        12
+   macro avg       0.03      0.17      0.06        12
+weighted avg       0.02      0.08      0.03        12

@@ -1,0 +1,11 @@
+lake_victoria_basin DJF Long Lead Monthly Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.56      0.83      0.67         6
+          bn       0.50      0.50      0.50         2
+           n       0.00      0.00      0.00         4
+
+    accuracy                           0.50        12
+   macro avg       0.35      0.44      0.39        12
+weighted avg       0.36      0.50      0.42        12

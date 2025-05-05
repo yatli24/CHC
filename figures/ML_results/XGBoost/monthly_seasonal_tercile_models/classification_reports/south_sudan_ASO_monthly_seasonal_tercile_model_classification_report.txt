@@ -1,0 +1,11 @@
+south_sudan ASO Long Lead Monthly (Seasonal Tercile) Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.18      1.00      0.31         2
+          bn       0.00      0.00      0.00         6
+           n       0.00      0.00      0.00         4
+
+    accuracy                           0.17        12
+   macro avg       0.06      0.33      0.10        12
+weighted avg       0.03      0.17      0.05        12

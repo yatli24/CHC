@@ -1,0 +1,11 @@
+south_sudan JAS Long Lead Seasonal Model
+=== Classification Report ===
+              precision    recall  f1-score   support
+
+          an       0.00      0.00      0.00       1.0
+          bn       0.00      0.00      0.00       1.0
+           n       0.00      0.00      0.00       2.0
+
+    accuracy                           0.00       4.0
+   macro avg       0.00      0.00      0.00       4.0
+weighted avg       0.00      0.00      0.00       4.0

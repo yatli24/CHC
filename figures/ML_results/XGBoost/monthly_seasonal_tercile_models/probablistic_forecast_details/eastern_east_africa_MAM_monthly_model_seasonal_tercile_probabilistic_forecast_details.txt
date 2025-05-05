@@ -1,0 +1,15 @@
+eastern_east_africa MAM Long Lead Monthly (Seasonal Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      3  0.080089  0.870102 0.049810         bn              bn
+ 2021      4  0.223452  0.674607 0.101941         bn              bn
+ 2021      5  0.227821  0.612057 0.160123         bn              bn
+ 2022      3  0.053329  0.774942 0.171728         bn              bn
+ 2022      4  0.015712  0.951560 0.032729         bn              bn
+ 2022      5  0.023455  0.931584 0.044961         bn              bn
+ 2023      3  0.041858  0.840804 0.117337         an              bn
+ 2023      4  0.046532  0.826723 0.126746         an              bn
+ 2023      5  0.031248  0.839975 0.128777         an              bn
+ 2024      3  0.806453  0.146501 0.047046         an              an
+ 2024      4  0.826671  0.125103 0.048226         an              an
+ 2024      5  0.719901  0.111288 0.168811         an              an

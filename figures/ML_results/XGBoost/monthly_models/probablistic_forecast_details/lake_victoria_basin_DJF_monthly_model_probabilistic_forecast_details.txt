@@ -1,0 +1,15 @@
+lake_victoria_basin DJF Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      1  0.591793  0.156644 0.251563          n              an
+ 2022      1  0.929854  0.063772 0.006374         an              an
+ 2023      1  0.317529  0.260202 0.422269         bn               n
+ 2024      1  0.393978  0.504552 0.101470         an              bn
+ 2021      2  0.737251  0.085768 0.176981         an              an
+ 2022      2  0.932335  0.055479 0.012186         an              an
+ 2023      2  0.231769  0.427392 0.340839         bn              bn
+ 2024      2  0.548540  0.329103 0.122358          n              an
+ 2021     12  0.774798  0.089356 0.135846          n              an
+ 2022     12  0.877551  0.114598 0.007851         an              an
+ 2023     12  0.521227  0.145893 0.332880         an              an
+ 2024     12  0.961075  0.028000 0.010925          n              an

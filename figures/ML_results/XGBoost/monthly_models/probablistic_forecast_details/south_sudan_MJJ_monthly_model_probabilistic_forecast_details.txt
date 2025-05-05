@@ -1,0 +1,15 @@
+south_sudan MJJ Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      5  0.514676  0.430494 0.054830          n              an
+ 2022      5  0.805015  0.093366 0.101619         bn              an
+ 2023      5  0.598683  0.297507 0.103810         bn              an
+ 2024      5  0.848709  0.084760 0.066531         bn              an
+ 2021      6  0.278026  0.615206 0.106768          n              bn
+ 2022      6  0.965822  0.014001 0.020177         bn              an
+ 2023      6  0.396427  0.542659 0.060914         an              bn
+ 2024      6  0.879152  0.065269 0.055579          n              an
+ 2021      7  0.780365  0.197734 0.021901          n              an
+ 2022      7  0.565248  0.118412 0.316340          n              an
+ 2023      7  0.819362  0.170991 0.009648         bn              an
+ 2024      7  0.531409  0.023887 0.444704         an              an

@@ -1,0 +1,7 @@
+lake_victoria_basin MAM Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.526570  0.433234 0.040195         an              an
+ 2022  0.304025  0.655441 0.040534          n              bn
+ 2023  0.490787  0.462307 0.046905         an              an
+ 2024  0.965479  0.025845 0.008676          n              an

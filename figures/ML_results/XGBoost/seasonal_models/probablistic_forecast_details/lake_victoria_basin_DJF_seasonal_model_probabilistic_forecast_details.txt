@@ -1,0 +1,7 @@
+lake_victoria_basin DJF Long Lead Seasonal Model
+=== Seasonal Predictions with Probabilities ===
+ year  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021  0.033957  0.073046 0.892998          n               n
+ 2022  0.031168  0.196865 0.771966         an               n
+ 2023  0.612137  0.356418 0.031445          n              an
+ 2024  0.562984  0.425567 0.011449         an              an

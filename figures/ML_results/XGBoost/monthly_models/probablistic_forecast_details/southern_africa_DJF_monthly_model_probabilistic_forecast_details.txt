@@ -1,0 +1,15 @@
+southern_africa DJF Long Lead Monthly (Monthly Tercile) Model
+=== Monthly Predictions with Probabilities ===
+ year  month  proba_an  proba_bn  proba_n true_label predicted_label
+ 2021      1  0.969350  0.021380 0.009270         an              an
+ 2022      1  0.760417  0.168714 0.070869         an              an
+ 2023      1  0.102069  0.895152 0.002779          n              bn
+ 2024      1  0.480275  0.450326 0.069399         bn              an
+ 2021      2  0.905132  0.065522 0.029346          n              an
+ 2022      2  0.785773  0.132855 0.081372         bn              an
+ 2023      2  0.007336  0.989669 0.002996          n              bn
+ 2024      2  0.220032  0.687226 0.092742         bn              bn
+ 2021     12  0.012939  0.015813 0.971248         bn               n
+ 2022     12  0.567241  0.399352 0.033406         bn              an
+ 2023     12  0.020654  0.954804 0.024542         an              bn
+ 2024     12  0.436187  0.348393 0.215420         bn              an
