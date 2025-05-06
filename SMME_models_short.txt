@@ -4,24 +4,23 @@ metrics:
   bn_agreement: 0.4
   operations: potential_skill OR (an AND bn)
 eastern_east_africa:
-  MAM: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP', 'SMME_medium']
-  OND: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP', 'SMME_medium']
+  MAM: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+  OND: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
 eastern_ukraine:
-  AMJ: ['GFDL']
-  DJF: ['CESM1', 'GEM5', 'GFDL', 'NCEP']
-  JA: ['CMCC', 'CanESM5', 'JMA', 'SMME_medium']
+  AMJ: ['ECMWF']
+  DJF: ['CESM1']
+  JA: ['CMCC', 'CanESM5', 'ECMWF', 'JMA', 'METEO', 'NCEP']
 lake_victoria_basin:
-  DJF: ['CMCC']
-  MAM: ['CCSM4', 'CMCC', 'CanESM5', 'ECMWF', 'JMA', 'METEO', 'NASA', 'NCEP', 'SMME_medium']
-  SON: ['CanESM5', 'ECMWF', 'GFDL', 'NASA', 'NCEP', 'SMME_medium']
+  DJF: ['CCSM4']
+  MAM: ['CCSM4', 'CESM1', 'CanESM5', 'DWD', 'ECMWF', 'JMA', 'METEO', 'NASA', 'NCEP']
+  SON: ['CMCC', 'CanESM5', 'DWD', 'ECMWF', 'METEO', 'NASA', 'NCEP']
 south_sudan:
-  ASO: ['CMCC', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP', 'SMME_medium']
-  JAS: ['CESM1', 'DWD', 'ECMWF', 'GEM5', 'JMA', 'METEO', 'NCEP', 'SMME_medium']
-  MJJ: ['ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'SMME_medium']
+  ASO: ['CMCC', 'DWD', 'ECMWF', 'GEM5', 'JMA', 'METEO']
+  JAS: ['CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'JMA', 'METEO']
+  MJJ: ['ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA']
 southern_africa:
-  DJF: ['CMCC', 'ECMWF']
-  FMA: ['CCSM4', 'DWD', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP', 'SMME_medium']
+  FMA: ['CCSM4', 'CMCC', 'ECMWF', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
 sri_lanka:
-  OND: ['CCSM4', 'CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP', 'SMME_medium']
+  OND: ['CCSM4', 'CESM1', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
 west_africa:
-  JAS: ['ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP', 'SMME_medium']
+  JAS: ['CMCC', 'DWD', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
