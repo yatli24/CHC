@@ -29,12 +29,12 @@ for f in files_path:
         first_row_value = df['model'].iloc[0]
 
         # Compare it with the value you're looking for
-        if first_row_value == 'MME' or first_row_value == 'SMME' or first_row_value == 'SMMEmod':
+        if first_row_value == 'MME' or first_row_value == 'SMME':
             continue
 
     dfs_dict[f] = df
 
-mme_df = pd.concat(dfs_dict.values()).groupby(['season', 'date_of_prediction', 'region', 'realization_year'])[['predicted_precip','precip']].mean().reset_index()
+mme_df = pd.concat(dfs_dict.values()).groupby(['season', 'region', 'realization_year', 'year_of_prediction', 'month_of_prediction', 'lead_time'])[['predicted_precip','precip']].mean().reset_index()
 mme_df['model'] = 'MME'
 
 grouped = mme_df.groupby('region')
@@ -43,4 +43,4 @@ for region, region_df in grouped:
     region_name = str(region)
     model = 'MME'
     filename = f'data/csv/{region_name}_{model}_merged_seasonal.csv'
-    region_df.to_csv(filename)
+    region_df.to_csv(filename, index = False)
