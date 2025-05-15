@@ -1,7 +1,7 @@
 # UCSB Climate Hazards Center Research Capstone
 
 ## Project Description
-Assessing the predictive skill of several climate models in the North American Multi Model Ensemble (NMME)
+Assessing the predictive skill of General Circulation Models (GCMs) in various regions of interest
 
 ## Repository Guide
 - .devcontainer - Development container for the project (Dependency version control)
