@@ -7,20 +7,21 @@ eastern_east_africa:
   MAM: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
   OND: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
 eastern_ukraine:
-  AMJ: ['ECMWF']
-  DJF: ['CESM1']
-  JA: ['CMCC', 'CanESM5', 'ECMWF', 'JMA', 'METEO', 'NCEP']
+  AMJ: ['CCSM4', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'METEO']
+  DJF: ['CMCC', 'DWD', 'ECMWF']
+  JA: ['CCSM4', 'CMCC', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'NCEP']
 lake_victoria_basin:
-  DJF: ['CCSM4']
-  MAM: ['CCSM4', 'CESM1', 'CanESM5', 'DWD', 'ECMWF', 'JMA', 'METEO', 'NASA', 'NCEP']
-  SON: ['CMCC', 'CanESM5', 'DWD', 'ECMWF', 'METEO', 'NASA', 'NCEP']
+  DJF: ['CCSM4', 'CESM1', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA']
+  MAM: ['CMCC', 'CanESM5', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
+  SON: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
 south_sudan:
-  ASO: ['CMCC', 'DWD', 'ECMWF', 'GEM5', 'JMA', 'METEO']
-  JAS: ['CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'JMA', 'METEO']
-  MJJ: ['ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA']
+  ASO: ['CMCC', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+  JAS: ['CESM1', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+  MJJ: ['CMCC', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'NCEP']
 southern_africa:
-  FMA: ['CCSM4', 'CMCC', 'ECMWF', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+  DJF: ['ECMWF', 'GEM5', 'JMA', 'METEO', 'NCEP']
+  FMA: ['CCSM4', 'CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
 sri_lanka:
-  OND: ['CCSM4', 'CESM1', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+  OND: ['CCSM4', 'CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
 west_africa:
-  JAS: ['CMCC', 'DWD', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
+  JAS: ['CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
