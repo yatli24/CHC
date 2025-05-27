@@ -1,13 +1,31 @@
-FROM python:3.11
+# Use official Python 3.11 image
+FROM python:3.11-slim
 
-# Set the working directory
+# Avoid interactive prompts
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    libproj-dev \
+    proj-data \
+    proj-bin \
+    libgeos-dev \
+    libgeos++-dev \
+    libgdal-dev \
+    gdal-bin \
+    libcartopy-dev \
+    python3-dev \
+    curl \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+# Set work directory
 WORKDIR /workspace
 
-# Install necessary packages
-RUN pip install --no-cache-dir jupyter pandas numpy xarray
+# Install pip & Jupyter
+RUN pip install --upgrade pip && \
+    pip install jupyter
 
-# Expose Jupyter Notebook port
-EXPOSE 8888
-
-# Command to run Jupyter Notebook
-CMD ["jupyter", "notebook", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root"]
+# Default command
+CMD ["bash"]
