@@ -1,11 +1,15 @@
 {
     "name": "UCSB CHC Capstone Container",
-    "dockerFile": "Dockerfile",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
     "settings": {
         "terminal.integrated.defaultProfile.linux": "/bin/bash"
     },
     "extensions": [
-        "ms-python.python"
+        "ms-python.python",
+        "ms-toolsai.jupyter"
     ],
-    "forwardPorts": [8888]
+    "forwardPorts": [8888],
+    "postCreateCommand": "pip install --no-cache-dir xarray numpy pandas seaborn matplotlib cartopy jupyter"
 }
