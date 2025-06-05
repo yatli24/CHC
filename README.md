@@ -16,10 +16,15 @@ The 'Scripts/Pre-Processing' folder contains our scripts for data pre-processing
 
 ## Dependencies
 numpy version 2.0.2
+
 pandas version 2.2.2
+
 xarray version 2025.3.1
+
 matplotlib version 3.10.0, mainly used matplotlib.pyplot
+
 seaborn version 0.13.2
+
 os module (built-in)
 
 ## References
