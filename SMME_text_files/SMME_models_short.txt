@@ -1,0 +1,28 @@
+SMME Short Lead Models
+metrics:
+  potential_skill: 0.3
+  an_agreement: 0.4
+  bn_agreement: 0.4
+  SMME_criteria: (potential_skill > 0.3) OR (an AND bn) > 0.4
+eastern_east_africa:
+  MAM: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+  OND: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+eastern_ukraine:
+  AMJ: ['CCSM4', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'METEO']
+  DJF: ['CMCC', 'DWD', 'ECMWF']
+  JA: ['CCSM4', 'CMCC', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'NCEP']
+lake_victoria_basin:
+  DJF: ['CCSM4', 'CESM1', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA']
+  MAM: ['CMCC', 'CanESM5', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
+  SON: ['CCSM4', 'CESM1', 'CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+south_sudan:
+  ASO: ['CMCC', 'CanESM5', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+  JAS: ['CESM1', 'CanESM5', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+  MJJ: ['CMCC', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'NASA', 'NCEP']
+southern_africa:
+  DJF: ['ECMWF', 'GEM5', 'JMA', 'METEO', 'NCEP']
+  FMA: ['CCSM4', 'CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NASA', 'NCEP']
+sri_lanka:
+  OND: ['CCSM4', 'CESM1', 'CMCC', 'DWD', 'ECMWF', 'GEM5', 'GFDL', 'JMA', 'METEO', 'NCEP']
+west_africa:
+  JAS: ['CMCC', 'CanESM5', 'DWD', 'ECMWF', 'GFDL', 'JMA', 'NASA', 'NCEP']
