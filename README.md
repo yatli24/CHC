@@ -37,6 +37,7 @@ os module (built-in)
 
 ## References
 Gebrechorkos, S. H., Pan, M., Beck, H. E., & Sheffield, J. (2022). Performance of State‐of‐the‐Art C3S European Seasonal Climate Forecast Models for Mean and Extreme Precipitation Over Africa. Water Resources Research, 58(3). https://doi.org/10.1029/2021wr031480
+
 Slater, L. J., Villarini, G., & Bradley, A. A. (2016). Evaluation of the skill of North-American Multi-Model Ensemble (NMME) Global Climate Models in predicting average and extreme precipitation and temperature over the continental USA. Climate Dynamics, 53(12), 7381–7396. https://doi.org/10.1007/s00382-016-3286-1 
 
 ## People
