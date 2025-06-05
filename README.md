@@ -25,6 +25,14 @@ matplotlib version 3.10.0, mainly used matplotlib.pyplot
 
 seaborn version 0.13.2
 
+cartopy version 0.24.1
+
+xgboost version 2.1.4
+
+sklearn version 1.6.1
+
+shap version 0.47.2
+
 os module (built-in)
 
 ## References
