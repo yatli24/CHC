@@ -14,7 +14,7 @@ This repository is split into four main folders: Jupyter notebooks, SMME text fi
 
 - The 'scripts/pre-processing' folder contains our scripts for data pre-processing (data conversion, cleaning, and merging).
 
-- The 'outdated' folder contains scripts that may still be used for analyses, but must be updated to match certain conventions (i.e naming conventions, code structure)
+- The 'outdated' folder contains scripts that may still be used for analyses, but must be updated to match certain conventions (i.e naming conventions, code structure), as well as analysis direction (i.e files analyze one region or season at a time)
 
 ## Dependencies
 numpy version 2.0.2
