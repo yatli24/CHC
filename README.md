@@ -12,7 +12,9 @@ This repository is split into four main folders: Jupyter notebooks, SMME text fi
 
 - The 'Figures' folder contains all of the plots and figures we've created. This is further divided into several folders (i.e. 'monthly_metrics', 'seasonal_metrics', etc.).
 
-- The 'scripts/pre-processing' folder contains our scripts for data pre-processing (data conversion, cleaning, and merging). 
+- The 'scripts/pre-processing' folder contains our scripts for data pre-processing (data conversion, cleaning, and merging).
+
+- The 'outdated' folder contains scripts that may still be used for analyses, but must be updated to match certain conventions (i.e naming conventions, code structure)
 
 ## Dependencies
 numpy version 2.0.2
